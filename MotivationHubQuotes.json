@@ -1,0 +1,22 @@
+{
+  "Love Quotes": [
+    {"text": "Love is composed of a single soul inhabiting two bodies.", "author": "Aristotle"},
+    {"text": "Where there is love there is life.", "author": "Mahatma Gandhi"},
+    {"text": "Love all, trust a few, do wrong to none.", "author": "William Shakespeare"}
+  ],
+  "Life Quotes": [
+    {"text": "In the middle of difficulty lies opportunity.", "author": "Albert Einstein"},
+    {"text": "Life is what happens when you're busy making other plans.", "author": "John Lennon"},
+    {"text": "You only live once, but if you do it right, once is enough.", "author": "Mae West"}
+  ],
+  "Motivational Quotes": [
+    {"text": "Push yourself, because no one else is going to do it for you.", "author": "Unknown"},
+    {"text": "Don’t watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
+    {"text": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill"}
+  ],
+  "Humor Quotes": [
+    {"text": "I am so clever that sometimes I don’t understand a single word of what I am saying.", "author": "Oscar Wilde"},
+    {"text": "People say nothing is impossible, but I do nothing every day.", "author": "A. A. Milne"},
+    {"text": "Behind every great man is a woman rolling her eyes.", "author": "Jim Carrey"}
+  ]
+}
